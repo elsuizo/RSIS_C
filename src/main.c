@@ -52,7 +52,7 @@ int main(void)
                break;
          }
       }
-      sfRenderWindow_clear(window, sfRed);
+      sfRenderWindow_clear(window, sfWhite);
       sfRenderWindow_display(window);
    }
    /* clean up */

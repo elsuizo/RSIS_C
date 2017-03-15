@@ -22,8 +22,8 @@ General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 ---------------------------------------------------------------------------*/
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 /*-------------------------------------------------------------------------
                               includes
 -------------------------------------------------------------------------*/
